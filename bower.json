@@ -1,0 +1,17 @@
+{
+  "name": "Yii2-Curl",
+  "homepage": "https://github.com/stenleegunz/Yii2-Curl",
+  "authors": [
+    "Новоселов Дмитрий <stenleegun@gmail.com>"
+  ],
+  "description": "Easy working cURL extension for Yii2",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
